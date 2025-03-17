@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <div className="flex items-center mb-4">
-              <img src="/public/assets/2ncode-favicon.png" alt="2NCODE Logo" className="h-8 w-8" />
+              <img src="/assets/2ncode-favicon.png" alt="2NCODE Logo" className="h-8 w-8" />
               <span className="ml-2 text-2xl font-bold text-white">2NCODE</span>
             </div>
             <p className="text-gray-400 italic">
